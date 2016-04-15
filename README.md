@@ -1,0 +1,2 @@
+# apple_sandbox
+根据BHDC2011-Paper一文详细研究osx的沙盒技术细节
